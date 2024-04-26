@@ -12,11 +12,47 @@ The main purpose of analyzing Amazon Prime Subscriber data is to:
 ## Data Source 📊
 
 The data is from: 
-https://www.kaggle.com/datasets/arnavsmayan/amazon-prime-userbase-dataset
+https://www.kaggle.com/datasets/arnavsmayan/amazon-prime-userbase-dataset 
 
-"The dataset aims to represent a diverse range of Prime users, including different demographics, subscription plans, and usage patterns. 
-It is designed to facilitate analysis and insights into user behavior, preferences, and interactions with the Amazon Prime platform. 
-Researchers and analysts can use this dataset to study trends, conduct targeted marketing campaigns, and improve user experience on the platform."
+It includes the following columns:
+
+**User ID:** Numeric ID for the user
+
+**Name:** User's name
+
+**Email Address:** User's email address
+
+**Username:** Username
+
+**Date of Birth:** Date of Birth of the user
+
+**Gender:** User's gender
+
+**Location:** User's Country
+
+**Membership Start Date:** Start date of the Amazon Prime membership
+
+**Membership End Date:** End date of the membership
+
+**Payment Information:** Payment method used (Visa, Mastercard, Amex)
+
+**Renewal Status:** Setting of renewal on subscription (Manual vs Automatic)
+
+**Usage Frequency:** Frequency of platform usage (Occasional, Regular, Frequent)
+
+**Purchase History:** Most frequently purchased items
+
+**Favorite Genres:** Favorite genre of content
+
+**Devices Used:** Device used to access the platform
+
+**Engagement Metrics:** Engagement level (Low, Medium, High)
+
+**Feedback/Ratings:** Average feedback/ratings given by the user
+
+**Customer Support Interactions:** Number of interactions with customer support
+
+**Subscription Plan:** Type of subscription plan (Annual vs Monthly).
 
 ## Getting Started
 
@@ -28,6 +64,23 @@ Researchers and analysts can use this dataset to study trends, conduct targeted 
 * seaborn
 * datetime
 * sklearn
+
+## Exploratory Data Analysis (EDA)
+Conducted exploratory data analysis to gain insights into the dataset.
+Explored the distributions of key variables and identified potential patterns or trends. (Gender, Genres, Feedback/Rating)
+
+## Model Building
+* Utilized various machine learning algorithms, including Logistic Regression, Decision Tree, and Random Forest to predict the target variable.
+* Evaluated the performance of each model using accuracy, precision, and recall metrics.
+  
+
+## Results
+The Decision Tree model achieved an accuracy of 54.667% on the test dataset.
+Precision and recall for the Decision Tree model were 56.265% and 60.560%, respectively.
+
+## Conclusion
+The Decision Tree model outperformed other models in terms of accuracy, precision, and recall and was selected as the final model.
+The model had low numbers, but 54.667% was the highest I could manage to get the model accuracy, changing test/train splits, changing the selected features, and testing different models.
 
 ### Authors
 
