@@ -9,7 +9,7 @@ The main purpose of analyzing Amazon Prime Subscriber data is to:
 2. Explore the data to determine what features to use in the model.
 3. Create a model to provide valuable insights into user behavior and preferences, enabling data-driven decision-making for subscription-based businesses.
 
-## Data
+## Data Source 📊
 
 The data is from: 
 https://www.kaggle.com/datasets/arnavsmayan/amazon-prime-userbase-dataset
@@ -20,7 +20,7 @@ Researchers and analysts can use this dataset to study trends, conduct targeted 
 
 ## Getting Started
 
-### Dependencies
+### Built with 🛠️
 
 * pandas
 * numpy
@@ -29,12 +29,12 @@ Researchers and analysts can use this dataset to study trends, conduct targeted 
 * datetime
 * sklearn
 
-## Authors
+### Authors
 
 Luke Edwards (me)
 
 https://github.com/Dream3223
 
-## License
+### License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
