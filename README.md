@@ -1,4 +1,4 @@
-# Amazon Prime Subscriber
+# Decision-Tree-Analysis-for-Amazon-Prime-Subscription-Method
 
 Amazon Prime subscriber EDA and ML Model to determine subscription plan (Annual vs Monthly)
 
