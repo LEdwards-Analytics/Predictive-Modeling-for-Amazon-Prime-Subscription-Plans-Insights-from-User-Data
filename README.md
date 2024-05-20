@@ -82,6 +82,10 @@ Precision and recall for the Decision Tree model were 56.265% and 60.560%, respe
 The Decision Tree model outperformed other models in terms of accuracy, precision, and recall and was selected as the final model.
 The model had low numbers, but 54.667% was the highest I could manage to get the model accuracy, changing test/train splits, changing the selected features, and testing different models.
 
+This model could greatly benefit from more useful customer data. The dates related to customers were all 1 year in length, as this isn't realistic or predictive towards their subscriptions, it also doesn't add to
+the performance of the model.
+
+
 ### Authors
 
 Luke Edwards (me)
