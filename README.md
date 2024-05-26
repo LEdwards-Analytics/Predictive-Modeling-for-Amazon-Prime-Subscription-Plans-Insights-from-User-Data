@@ -51,6 +51,6 @@ Based on the analysis and modeling conducted, here are some recommendations for 
 
 * Continuous Monitoring and Feedback: Regularly monitor user feedback and engagement metrics to identify evolving preferences and trends. Incorporate user feedback into product development and subscription offerings to ensure continued relevance and satisfaction.
 
-* Further Model Refinement: Continuously refine and update the predictive models based on new data and feedback. This can improve the accuracy and effectiveness of the models over time, leading to better decision-making and outcomes.\
+* Further Model Refinement: Continuously refine and update the predictive models based on new data and feedback. This can improve the accuracy and effectiveness of the models over time, leading to better decision-making and outcomes.
 
 * More data: This model could be significantly improved with more datapoints.
