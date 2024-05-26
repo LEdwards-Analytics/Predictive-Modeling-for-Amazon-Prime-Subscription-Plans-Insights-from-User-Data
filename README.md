@@ -34,7 +34,7 @@ Ensure these dependencies are installed before running the code.
 This project is licensed under the MIT License.
 
 ## Project Summary
-[Link to Project Summary Document]
+[Link to Project Summary Document](https://github.com/Dream3223/Amazon-Prime-Subscription-Model/blob/main/docs/Project%20Summary.md)
 
 ## Recommendations
 Based on the analysis and modeling conducted, here are some recommendations for optimizing subscription plans and user retention:
