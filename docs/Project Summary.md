@@ -1,4 +1,4 @@
-# Project Summary: Predictive Modeling for Amazon Prime Subscription Plans: Insights from User Data
+# Project Summary
 
 ## Overview
 
