@@ -1,7 +1,8 @@
 # Predictive Modeling for Amazon Prime Subscription Plans: Insights from User Data
 
 ## Overview
-This repository contains code and documentation for a predictive modeling project that predicts subscription plans for Amazon Prime users. The project utilizes machine learning techniques to analyze user data and predict whether users will subscribe to annual or monthly subscription plans.
+
+The project utilizes machine learning techniques to analyze user data and predict whether users will subscribe to annual or monthly subscription plans.
 
 ## Project Structure
 - `notebooks/`: Contains Jupyter Notebooks for data preprocessing, exploratory data analysis (EDA), model development, and evaluation.
