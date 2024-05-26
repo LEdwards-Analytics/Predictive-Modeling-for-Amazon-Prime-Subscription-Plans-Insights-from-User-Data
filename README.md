@@ -16,43 +16,28 @@ https://www.kaggle.com/datasets/arnavsmayan/amazon-prime-userbase-dataset
 
 It includes the following columns:
 
-**User ID:** Numeric ID for the user
+| **Field**                       | **Description**                                                      |
+|---------------------------------|----------------------------------------------------------------------|
+| **User ID**                     | Numeric ID for the user                                              |
+| **Name**                        | User's name                                                          |
+| **Email Address**               | User's email address                                                 |
+| **Username**                    | Username                                                             |
+| **Date of Birth**               | Date of Birth of the user                                            |
+| **Gender**                      | User's gender                                                        |
+| **Location**                    | User's Country                                                       |
+| **Membership Start Date**       | Start date of the Amazon Prime membership                            |
+| **Membership End Date**         | End date of the membership                                           |
+| **Payment Information**         | Payment method used (Visa, Mastercard, Amex)                         |
+| **Renewal Status**              | Setting of renewal on subscription (Manual vs Automatic)             |
+| **Usage Frequency**             | Frequency of platform usage (Occasional, Regular, Frequent)          |
+| **Purchase History**            | Most frequently purchased items                                      |
+| **Favorite Genres**             | Favorite genre of content                                            |
+| **Devices Used**                | Device used to access the platform                                   |
+| **Engagement Metrics**          | Engagement level (Low, Medium, High)                                 |
+| **Feedback/Ratings**            | Average feedback/ratings given by the user                           |
+| **Customer Support Interactions**| Number of interactions with customer support                        |
+| **Subscription Plan**           | Type of subscription plan (Annual vs Monthly)                        |
 
-**Name:** User's name
-
-**Email Address:** User's email address
-
-**Username:** Username
-
-**Date of Birth:** Date of Birth of the user
-
-**Gender:** User's gender
-
-**Location:** User's Country
-
-**Membership Start Date:** Start date of the Amazon Prime membership
-
-**Membership End Date:** End date of the membership
-
-**Payment Information:** Payment method used (Visa, Mastercard, Amex)
-
-**Renewal Status:** Setting of renewal on subscription (Manual vs Automatic)
-
-**Usage Frequency:** Frequency of platform usage (Occasional, Regular, Frequent)
-
-**Purchase History:** Most frequently purchased items
-
-**Favorite Genres:** Favorite genre of content
-
-**Devices Used:** Device used to access the platform
-
-**Engagement Metrics:** Engagement level (Low, Medium, High)
-
-**Feedback/Ratings:** Average feedback/ratings given by the user
-
-**Customer Support Interactions:** Number of interactions with customer support
-
-**Subscription Plan:** Type of subscription plan (Annual vs Monthly).
 
 ## Getting Started
 
